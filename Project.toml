@@ -1,0 +1,7 @@
+name = "BBNvde"
+uuid = "0c43ec80-9dbd-4494-9464-ebd4bdeafe8f"
+authors = ["pmc4 <117096890+pmc4@users.noreply.github.com>", "Stefano Gariazzo <stefano.gariazzo@gmail.com>"]
+version = "0.0.1"
+
+[compat]
+julia = "1.9"
